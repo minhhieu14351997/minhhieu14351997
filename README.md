@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Minh Hieu
 - 👀 I’m interested in Web design(backend, frontend), IOT, FPGA, AI(Deep learning)
 - 🌱 I’m currently learning Asp.net core, Vuejs and angular.
+- 🦾 I used to work with Django, Flask, Python, C/C++, C#, Verilog HDL, html/css/Jquery, javascript.
 - 📫 Contact me over: 
                       - email: minhhieu14351997@gmail.com
                       - Skype: minhhieu14351997@gmail.com
